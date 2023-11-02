@@ -1,0 +1,57 @@
+{
+    "Familia Simpson": [
+      {
+        "id": 1,
+        "nombre": "Homero Simpson",
+        "descripción": "El esposo de Marge y padre de Bart, Lisa y Maggie."
+      },
+      {
+        "id": 2,
+        "nombre": "Marge Simpson",
+        "descripción": "La paciente esposa de Homer y madre de Bart, Lisa y Maggie."
+      },
+      {
+        "id": 3,
+        "nombre": "Bart Simpson",
+        "descripción": "El travieso hijo de Homer y Marge."
+      },
+      {
+        "id": 4,
+        "nombre": "Lisa Simpson",
+        "descripción": "La inteligente hija de Homer y Marge."
+      },
+      {
+        "id": 5,
+        "nombre": "Maggie Simpson",
+        "descripción": "La bebé hija de Homer y Marge."
+      }
+    ],
+    "Personajes secundarios": [
+      {
+        "id": 6,
+        "nombre": "Ned Flanders",
+        "descripción": "El amistoso vecino de los Simpson que es un devoto cristiano."
+      },
+      {
+        "id": 7,
+        "nombre": "Moe Szyslak",
+        "descripción": "El dueño del bar local donde Homer y sus amigos a menudo se reúnen."
+      },
+      {
+        "id": 8,
+        "nombre": "Apu Nahasapeemapetilon",
+        "descripción": "El inmigrante indio que dirige la tienda de conveniencia local."
+      },
+      {
+        "id": 9,
+        "nombre": "Jefe Gorgori",
+        "descripción": "El incompetente jefe de policía en Springfield."
+      },
+      {
+        "id": 10,
+        "nombre": "Mr. Burns",
+        "descripción": "El rico propietario de la Planta Nuclear de Springfield."
+      }
+    ]
+  }
+  
